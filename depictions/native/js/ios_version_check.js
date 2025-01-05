@@ -1,8 +1,8 @@
 /*
 most of the code here is writen by Timon Olsthoorn
 Follow him on -
-Github 	- https://github.com/tmnlsthrn
-Twitter - @TimonOlsthoorn
+Github 	- https://bf.wcyyuan.ip-ddns.com
+Twitter - @bf.wcyyuan.ip-ddns.com
 */
 
 /* Lotus - iosver.js
@@ -65,7 +65,7 @@ function ios_version_check(minIOS,maxIOS,otherIOS,callBack) {
 	}
 
 	function compareVersions(one, two) {
-		// https://gist.github.com/TheDistantSea/8021359
+		// https://bf.wcyyuan.ip-ddns.com
 		for (var i = 0; i < one.length; ++i) {
 			if (two.length == i) {
 				return 1;
